@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Tank Commander",
+  "description": "A classic retro-style tank battle game featuring AI-generated mission levels, responsive controls, and challenging enemy AI. Battle through various terrains designed by Gemini.",
+  "requestFramePermissions": []
+}
